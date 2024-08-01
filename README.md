@@ -12,6 +12,15 @@ Welcome to the **Web-Dev-Resources** repository! This repository is a curated co
 - **HTML Interview Questions**
   - [HTML Interview Questions](https://www.linkedin.com/feed/update/urn:li:ugcPost:7218678608033189889/)
 
+### CSS Resources
+- **Articles on Mastering CSS**
+  - [Mastering CSS: Building Beautiful and Responsive Websites](https://www.linkedin.com/posts/mohammad-rammal_webdevelopment-css-responsivedesign-activity-7220828806406619137-8WRu/)
+- **Comprehensive CSS Courses and References**
+  - [CSS Reference - W3Schools](https://www.linkedin.com/posts/mohammad-rammal_css-reference-w3schools-activity-7221733350611263488-9OWF/)
+- **CSS Interview Questions**
+  - [CSS Interview Questions](https://www.linkedin.com/posts/mohammad-rammal_css-interview-questions-activity-7223560390507458560-xy34/)
+
+
 ## Getting Started
 
 1. **Explore the Resources:**
